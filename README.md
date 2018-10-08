@@ -18,6 +18,6 @@ For the cancer organization we created a way for them to visualize and utilize d
 
 ## Screenshots
 
-<img src="ProjectModel.png"
+<img src="https://github.com/ajking98/GrowthForce/blob/master/ProjectModel.PNG"
     align="middle"
      alt="Project Model" />

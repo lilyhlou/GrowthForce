@@ -18,13 +18,15 @@ For the cancer organization we created a way for them to visualize and utilize d
 
 ## Screenshots
 
+# Screenshot 1 - Project Model
 <img src="https://github.com/ajking98/GrowthForce/blob/master/ProjectModel.PNG"
     align="middle"
      alt="Project Model" />
-
-     <img src="https://github.com/ajking98/GrowthForce/blob/master/WebExtension.PNG"
-         align="middle"
-          alt="Web Extension" />
-          <img src="https://github.com/ajking98/GrowthForce/blob/master/webUI.PNG"
-              align="middle"
-               alt="Web User Interface" />
+# Screenshot 2 - Web Extension
+ <img src="https://github.com/ajking98/GrowthForce/blob/master/WebExtension.PNG"
+     align="middle"
+      alt="Web Extension" />
+# Screenshot 3 - Web User Interface
+<img src="https://github.com/ajking98/GrowthForce/blob/master/webUI.PNG"
+    align="middle"
+     alt="Web User Interface" />

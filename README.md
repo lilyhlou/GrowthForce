@@ -10,10 +10,8 @@ For the cancer organization we created a way for them to visualize and utilize d
 
 + Angular JS
 + MySQL
-+ Python Libraries
-+ K Means Clustering
++ Python
 + HTML5
-+ Postman
 + Bootstrap
 
 ## Screenshots
